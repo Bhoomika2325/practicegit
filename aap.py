@@ -3,3 +3,4 @@ def addition( a,b):
 addition(3,4)
 
 print('hello')
+print('bye')
