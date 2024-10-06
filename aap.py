@@ -1,3 +1,3 @@
-def addition(a+b):
+def addition( a,b):
     return a+b
-addition()
+addition(3,4)
